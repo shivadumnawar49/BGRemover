@@ -185,7 +185,7 @@ const styles = StyleSheet.create({
     fontWeight: '400',
     color: '#6B7280',
     textAlign: 'center',
-    marginBottom: 40, // more space before button
+    marginBottom: 40, 
     lineHeight: 22,
   },
 
